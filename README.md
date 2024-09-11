@@ -20,8 +20,33 @@ A user-friendly web application where users can fully customize their pizza orde
    ```bash
    git clone https://github.com/yourusername/pizza-co.git
 
+## Installation and Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/pizza-co.git
+
+## Documentation & Resources
+
+### React
+- Official Documentation: [React Docs](https://reactjs.org/docs/getting-started.html)
+- React Hooks: [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+
+### Tailwind CSS
+- Official Documentation: [Tailwind CSS Docs](https://tailwindcss.com/docs)
+- Tailwind Cheat Sheet: [Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+
+### Redux Toolkit
+- Official Documentation: [Redux Toolkit Docs](https://redux-toolkit.js.org/introduction/getting-started)
+- Redux Best Practices: [Redux Best Practices](https://redux.js.org/style-guide/style-guide)
+
+### Additional Resources
+- **Netlify**: [Deploying React apps on Netlify](https://docs.netlify.com/integrations/frameworks/react/)
+- **React Router**: [React Router Docs](https://reactrouter.com/en/main)
 
 
+## Project Structure
+```bash
+.
 ├── public          # Public assets
 ├── src
 │   ├── components  # Reusable components
@@ -32,19 +57,3 @@ A user-friendly web application where users can fully customize their pizza orde
 └── README.md       # Project documentation
 
 
-
-Documentation & Resources
-React
-Official Documentation: React Docs
-React Hooks: Hooks API Reference
-Tailwind CSS
-Official Documentation: Tailwind CSS Docs
-Tailwind Cheat Sheet: Cheat Sheet
-Redux Toolkit
-Official Documentation: Redux Toolkit Docs
-Redux Best Practices: Redux Best Practices
-Additional Resources
-Netlify: Deploying React apps on Netlify
-React Router: React Router Docs
-Contribution
-Feel free to contribute to the project by opening issues or submitting pull requests.
